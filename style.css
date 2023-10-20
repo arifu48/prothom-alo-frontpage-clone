@@ -1,0 +1,341 @@
+.fst_icon {
+  margin-left: 70px;
+  margin-top: 20px;
+}
+.fst_icon .bers_icon a {
+  color: black;
+  font-size: 25px;
+}
+.fst_icon .sh_icon a {
+  color: black;
+  font-size: 25px;
+}
+
+.sd_ic {
+  margin-right: 130px;
+  margin-top: 40px;
+}
+.sd_ic a {
+  color: black;
+}
+.sd_ic .but button {
+  width: 100px;
+}
+
+.date_ed {
+  margin-left: 60px;
+  margin-right: 110px;
+}
+.date_ed .date_name {
+  color: grey;
+}
+.date_ed .lang_ch a {
+  text-decoration: none;
+  text-shadow: 0 1px 1px 1px gray;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.date_ed .lang_ch a:hover {
+  text-decoration: underline;
+  color: cornflowerblue;
+}
+
+.fs_ul li a {
+  color: black;
+  font-weight: 550;
+  text-decoration: none;
+}
+.fs_ul li a:hover {
+  color: coral;
+}
+
+.sc_ul {
+  margin-left: -25px;
+}
+.sc_ul li {
+  color: slateblue;
+}
+.sc_ul li a {
+  text-decoration: none;
+  color: black;
+}
+.sc_ul li a:hover {
+  color: yellowgreen;
+}
+
+.mid_sec {
+  width: 95%;
+  margin: auto;
+}
+.mid_sec h1 {
+  color: teal;
+}
+
+.main_work {
+  width: 95%;
+  margin: auto;
+}
+.main_work .fexi_are {
+  display: flex;
+}
+.main_work .fexi_are .main_half_d {
+  width: 70%;
+}
+.main_work .fexi_are .main_half_d .section_div {
+  display: flex;
+}
+.main_work .fexi_are .main_half_d .section_div .sub_sec_d1 img {
+  width: 400px;
+  height: 300px;
+}
+.main_work .fexi_are .main_half_d .section_div .sub_sec_d1 p {
+  margin: auto;
+  padding: auto;
+}
+.main_work .fexi_are .main_half_d .section_div .sub_sec_d {
+  width: 50%;
+}
+.main_work .fexi_are .main_half_d .section_div .sub_sec_d2 img {
+  width: 390px;
+  margin-left: 9px;
+}
+.main_work .fexi_are .main_half_d .section_div .sub_sec_d2 h5 {
+  text-align: justify;
+  margin-left: 10px;
+  margin-right: 5px;
+}
+.main_work .fexi_are .main_half_d .section_div .sub_sec_d2 h5:hover {
+  color: rgb(5, 89, 247);
+}
+.main_work .fexi_are .main_half_d .section_div .sub_sec_d2 .rggt p {
+  margin-left: 10px;
+}
+.main_work .fexi_are .main_half_d hr {
+  margin-right: 5px;
+}
+.main_work .fexi_are .main_half_d .utch {
+  display: flex;
+}
+.main_work .fexi_are .main_half_d .utch .atm_dc {
+  width: 50%;
+}
+.main_work .fexi_are .main_half_d .utch .atm_dc .div_a a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.main_work .fexi_are .main_half_d .utch .atm_dc .div_a a:hover {
+  color: rgb(5, 89, 247);
+}
+.main_work .fexi_are .main_half_d .utch .atm_dc .div_p p {
+  margin-top: 25px;
+}
+.main_work .fexi_are .main_half_d .utch .atm_ac {
+  margin-left: 10px;
+}
+.main_work .fexi_are .main_half_d .utch .atm_ac .gh_a a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+.main_work .fexi_are .main_half_d .utch .atm_ac .gh_a a:hover {
+  color: rgb(5, 89, 247);
+}
+.main_work .fexi_are .main_half_d .utch .atm_ac .gh_p p {
+  margin-top: 25px;
+}
+.main_work .fexi_are .main_half_d .utch .atm_bc {
+  margin-left: 10px;
+}
+.main_work .fexi_are .main_half_d .utch .atm_bc .we_a a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.main_work .fexi_are .main_half_d .utch .atm_bc .we_a a:hover {
+  color: rgb(5, 89, 247);
+}
+.main_work .fexi_are .main_half_d .utch .atm_bc .we_p {
+  margin-top: 25px;
+}
+.main_work .main_half_c .img_er {
+  margin-left: 50px;
+}
+.main_work .main_half_c .img_er hr {
+  width: 80%;
+}
+.main_work .main_half_c .img_er .div_simp a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+.main_work .main_half_c .img_er .div_simp a:hover {
+  color: rgb(5, 89, 247);
+}
+.main_work .acdgdhg {
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+.main_work .ads .fgf {
+  display: flex;
+  justify-content: center;
+  color: darkgrey;
+}
+.main_work .ads .ad_div {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.yebnc {
+  display: flex;
+  margin: 30px;
+}
+.yebnc .rgb_tr {
+  width: 70%;
+  display: flex;
+}
+.yebnc .rgb_tr .hg_we {
+  width: 50%;
+}
+.yebnc .rgb_tr .hg_et a img {
+  width: 450px;
+}
+.yebnc .rgb_tr .hg_et .amni a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+.yebnc .rgb_tr .hg_et .amni a:hover {
+  color: rgb(5, 89, 247);
+}
+.yebnc .rgb_tr .hg_et p {
+  margin-top: 10px;
+  color: rgb(139, 133, 133);
+}
+.yebnc .rgb_tr .hg_er .kjij a img {
+  width: 400px;
+  padding: 30px;
+}
+.yebnc .rgb_tr .hg_er .lkh a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.yebnc .rgb_tr .hg_er .lkh a:hover {
+  color: rgb(5, 89, 247);
+}
+
+.rgb_td .thsus {
+  margin-top: 25px;
+  margin-left: 30px;
+}
+.rgb_td .thsus h4 {
+  color: rgb(5, 89, 247);
+  font-size: medium;
+  margin-top: 40px;
+}
+.rgb_td .drop_down {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.rgb_td .drop_down .jkkss {
+  margin-top: 30px;
+  padding: 10px 130px;
+}
+.rgb_td #aff {
+  color: rgba(130, 135, 139, 0.945);
+}
+.rgb_td #bff {
+  margin-top: 30px;
+  color: rgba(130, 135, 139, 0.945);
+}
+.rgb_td #cff {
+  margin-top: 30px;
+  color: rgba(130, 135, 139, 0.945);
+}
+
+.last_sec {
+  margin: 30px;
+}
+.last_sec hr {
+  margin-top: 70px;
+  margin-bottom: 65px;
+}
+.last_sec .ft_list .ul_ar {
+  display: flex;
+  gap: 150px;
+  justify-content: center;
+  margin-top: 40px;
+}
+.last_sec .ft_list .ul_ar li {
+  list-style-type: none;
+}
+.last_sec .ft_list .ul_ar li a {
+  text-decoration: none;
+  color: black;
+}
+.last_sec .ft_list .ul_ar li a:hover {
+  color: rgb(5, 89, 247);
+}
+.last_sec .kjjj_sn {
+  display: flex;
+  justify-content: space-between;
+}
+.last_sec .sp_cl p {
+  margin-top: -60px;
+  margin-left: 30px;
+  font-size: small;
+  color: grey;
+}
+.last_sec .sp_cl .icon a {
+  font-size: 25px;
+  color: black;
+}
+
+.ft_oo {
+  margin: 30px;
+}
+.ft_oo .last_div ul {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.ft_oo .last_div ul li {
+  color: gray;
+}
+.ft_oo .last_div ul li a {
+  color: grey;
+  font-size: small;
+  text-decoration: none;
+}
+.ft_oo .lsg_div {
+  display: flex;
+  justify-content: center;
+  color: grey;
+  font-size: small;
+  gap: 10px;
+}
+.ft_oo .ttrsh {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(0, 18, 70);
+  height: 40px;
+  margin-bottom: -30px;
+}
+.ft_oo .ttrsh P {
+  color: white;
+  margin-top: 10px;
+}
+.ft_oo .ttrsh P a {
+  color: white;
+}
+.ft_oo .ttrsh button {
+  background-color: rgb(13, 71, 161);
+  color: white;
+  height: 30px;
+  margin-top: 9px;
+  margin-left: 10px;
+  border: 0px;
+  border-radius: 3px;
+}/*# sourceMappingURL=style.css.map */
